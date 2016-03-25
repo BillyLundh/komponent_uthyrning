@@ -1,0 +1,21 @@
+<?xml version= "1.0"?>
+
+<system>
+	<user>
+		<RFID_nbr>105907</RFID_nbr>
+		<user_name>Sven Svensson</user_name>
+		<email>test@gmail.com</email>
+		<phone>0708987645</phone>
+	</user>
+
+	<user>
+		<RFID_nbr>902218</RFID_nbr>
+		<user_name>Ture Svantingsson</user_name>
+		<email>ture_s@gmail.com</email>
+		<phone>0708987645</phone>
+	</user>
+</system>
+
+<user>Sven Svensson</user>
+<id>752793</id>
+<email>sven@io.io</email>

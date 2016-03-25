@@ -1,0 +1,31 @@
+<?xml version= "1.0"?>
+
+<components>
+	<component>
+		<name>Stepper Motor</name>
+		<description>180´degrees</description>
+		<nbr>7</nbr>
+		<catagory>motors</catagory>
+		<location>A1</location>
+	</component>
+
+
+	<component>
+		<name>Stepper Motor</name>
+		<description>Continuos</description>
+		<nbr>7</nbr>
+		<catagory>motors</catagory>
+		<location>A2</location>
+	</component>
+
+
+	<component>
+		<name>Servo Motor</name>
+		<description>Regular 2 pin motor</description>
+		<nbr>3</nbr>
+		<catagory>motors</catagory>
+		<location>A3</location>
+	</component>
+
+</components>
+
